@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100028993655016" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+  <img align="center" src="https://www.facebook.com/profile.php?id=100028993655016" 
   alt="christopher" height="40" width="40" />
 </a>
 <a href="[https://instagram.com/chris__maradiaga](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chris__maradiaga/)" target="blank">
