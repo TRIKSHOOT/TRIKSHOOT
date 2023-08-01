@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="[[https://fb.com/christopher](https://www.facebook.com/profile.php?id=100028993655016)](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]" target="blank">
+<a href="(https://www.facebook.com/profile.php?id=100028993655016)](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
   alt="christopher" height="30" width="40" />
 </a>
