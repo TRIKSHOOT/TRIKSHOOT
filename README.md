@@ -1,13 +1,13 @@
 # 💫 About Me:
-✔️ I am studying and soon I will graduate from the computer science career of my school 🖥️<br>✔️I am very active in the development of web pages, using ingenuity for everything ⭐ <br>✔️ Willing to learn new programming languages ​​and other technologies 👨‍💻<br>✔️  Happy to collaborate with more web developers to help me expand my knowledge ✌️ 
+✔️ I am studying and soon I will graduate from the computer science career of my school 🖥️<br>✔️I am very active in the development of web pages, using ingenuity for everything ⭐ <br>✔️ Willing to learn new programming languages ​​and other technologies 👨‍💻<br>✔️ Happy to collaborate with more web developers to help me expand my knowledge ✌️ 
 
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://fb.com/christopher" target="blank">
+<a href="https://www.facebook.com/profile.php?id=100028993655016" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christopher" height="30" width="40" />
 </a>
-</a>
+
 <a href="[https://instagram.com/chris__maradiaga](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chris__maradiaga/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
   alt="chris__maradiaga" height="40" width="40" />
